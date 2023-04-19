@@ -14,6 +14,10 @@ A application which automates the tasks needed when installing windows on a new 
 - Dialog mode
 - Selection of 4 copyright-free wallpaper pictures
 
+### Dependencies
+- Codrut Visual Library - https://github.com/Codrax/CodrutsVisualLibrary/
+- Codrut Fluent Design System - https://github.com/Codrax/CodrutFluentDesignSystem
+
 ## Screenshots
 ![Screenshot 2023-04-19 211053](https://user-images.githubusercontent.com/68193064/233164454-1c89a7e5-6223-4681-904a-18d9711d3657.png)
 Install Apps Page            |  Apply tweaks page
