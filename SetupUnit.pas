@@ -1221,6 +1221,8 @@ begin
   Progress5.SelectedIcon := ciconCheckmark;
   Application.ProcessMessages;
   BottomNavigation.Enabled := true;
+
+  PageNav(Button_Next);
 end;
 
 end.
